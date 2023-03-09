@@ -12,9 +12,11 @@ I have :mortar_board: formal education in economics, but in late 2022 I discover
          - E-mail: zmakhmonova@gmail.com
          - Telegram: @zmakhmonova 
 
-- ⚡ Fun fact: I watched the FRIENDS show 24 times. 
-- ⚡ Fun fact: I come from one of the only two double-landlocked countries in the world. 
-- ⚡ Fun fact: I always try to avoid being under direct sunlight and can`t eat garlic.
+- ⚡ Fun facts about me: 
+         - I come from one of the only two double-landlocked countries in the world. 
+         - I watched the FRIENDS show 24 times.
+         - I always try to avoid being under direct sunlight and cannot eat garlic.
+
 
 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='JS' height='40'> 
