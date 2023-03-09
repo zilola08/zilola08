@@ -16,13 +16,7 @@ I have :mortar_board: formal education in economics, but in late 2022 I discover
          - I come from one of the only two double-landlocked countries in the world. 
          - I watched the FRIENDS show 24 times.
          - I always try to avoid being under direct sunlight and cannot eat garlic.
-
-
-![image](https://user-images.githubusercontent.com/44432264/223957461-e78203f8-0069-41c1-99ce-99abae8eecba.png)
-
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='JS' height='40'> 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='JS' height='40'> 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='JS' height='40'> 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='JS' height='40'> 
+         
+- <img src='https://user-images.githubusercontent.com/44432264/223957461-e78203f8-0069-41c1-99ce-99abae8eecba.png' alt='JS' height='40px' width='40px'> <img src='https://user-images.githubusercontent.com/44432264/223958844-d269b792-1d6d-4fc6-9e59-94c1e0b06990.png' alt='JS' height='40px' width='40px'> <img src='https://user-images.githubusercontent.com/44432264/223959125-e32d9f83-518c-48bd-ad86-559f5851a2ae.png' alt='JS' height='40px' width='40px'> 
 
 
