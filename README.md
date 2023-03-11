@@ -13,6 +13,7 @@ I have :mortar_board: formal education in economics, but in January 2022 I disco
          - [Emerge yourself into natures beauty and calmness](https://zilola08.github.io/nature-sounds/)</br>
          - [See a website for donations to a zoo](https://zilola08.github.io/online-zoo/pages/main/)</br>
          - [See a website for a travel agency](https://zilola08.github.io/travel/)</br>
+         - [My CV website](https://zilola08.github.io/CV-Zilola-Makhmonova/)
          
 * All the websites and web-apps have responsive design.</br>
 
