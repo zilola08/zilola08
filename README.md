@@ -19,7 +19,7 @@ I have :mortar_board: formal education in economics, but in January 2022 I disco
 
 - 📫 How to reach me: </br>
          - E-mail: zmakhmonova@gmail.com;</br>
-         - Telegram: @zmakhmonova </br>
+         - Telegram: [@zmakhmonova](https://t.me/zmakhmonova) </br>
 
 - ⚡ Fun facts about me: </br>
          - I watched the FRIENDS show 24 times;</br>
