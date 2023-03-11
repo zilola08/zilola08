@@ -10,7 +10,7 @@ I have :mortar_board: formal education in economics, but in late 2022 I discover
 
 - Check out some of my pet projects:</br>
          - [15-puzzle game](https://zilola08.github.io/fifteen-puzzle-game) </br>
-         - [Emerge yourself into your happy place](https://zilola08.github.io/nature-sounds/)</br>
+         - [Emerge yourself into natures beauty and calmness](https://zilola08.github.io/nature-sounds/)</br>
          - [See a website for donations to a zoo](https://zilola08.github.io/online-zoo/pages/main/)</br>
          - [See a website for a travel agency](https://zilola08.github.io/travel/)</br>
          
