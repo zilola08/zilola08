@@ -22,9 +22,9 @@ I have :mortar_board: formal education in economics, but in January 2022 I disco
          - Telegram: [@zmakhmonova](https://t.me/zmakhmonova) </br>
 
 - ⚡ Fun facts about me: </br>
-         - I watched the FRIENDS show 24 times;</br>
+         - I watched the FRIENDS show 24 times.</br>
          - I always try to avoid being under direct sunlight and cannot eat garlic.</br>
-         - There are only two double-landlocked countries in the world. And I live in one of them. Boy, I cherish water;</br>
+         - There are only two double-landlocked countries in the world. And I live in one of them. Boy, I cherish water.</br>
 
          
 - <img src='https://user-images.githubusercontent.com/44432264/223957461-e78203f8-0069-41c1-99ce-99abae8eecba.png' alt='JS' height='40px' width='40px'> <img src='https://user-images.githubusercontent.com/44432264/223958844-d269b792-1d6d-4fc6-9e59-94c1e0b06990.png' alt='JS' height='40px' width='40px'> <img src='https://user-images.githubusercontent.com/44432264/223959125-e32d9f83-518c-48bd-ad86-559f5851a2ae.png' alt='JS' height='40px' width='40px'> 
