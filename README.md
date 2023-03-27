@@ -23,7 +23,7 @@ I have :mortar_board: formal education in economics, but in January 2022 I disco
 
 - ⚡ Fun facts about me: </br>
          - I watched the FRIENDS show 24 times.</br>
-         - Greatest people of my time would be Louis CK, Jordan Peterson, Meryl Streep.</br>
+         - Big fan of Louis CK's comedy, Jordan Peterson's lectures, Meryl Streep's acting. </br>
          - There are only two double-landlocked countries in the world. And I live in one of them. Boy, I cherish water.</br>
 
          
