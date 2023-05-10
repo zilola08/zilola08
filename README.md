@@ -11,11 +11,12 @@ I have :mortar_board: formal education in economics, but then I discovered my lo
 - Check out some of my pet projects:</br>
          - [15-puzzle game](https://zilola08.github.io/fifteen-puzzle-game) </br>
          - [Emerge yourself into natures beauty and calmness](https://zilola08.github.io/nature-sounds/)</br>
-         - [See a website for donations to a zoo](https://zilola08.github.io/online-zoo/pages/main/)</br>
-         - [See a website for a travel agency](https://zilola08.github.io/travel/)</br>
+         - [Website for donations to a zoo](https://zilola08.github.io/online-zoo/pages/main/)</br>
+         - [Website for animal shelter](https://zilola08.github.io/shelter/main.html)</br>
+         - [Website for a travel agency](https://zilola08.github.io/travel/)</br>
          - [My CV website](https://zilola08.github.io/CV-Zilola-Makhmonova/)
          
-* All the websites and web-apps have responsive design.</br>
+* All the websites and web-apps have responsive design and cool features like sliders, paginators, popups, burger menus for smaller screens.</br>
 
 - 📫 How to reach me: </br>
          - E-mail: zmakhmonova@gmail.com;</br>
