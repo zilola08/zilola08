@@ -16,7 +16,7 @@ I have :mortar_board: formal education in economics, but then I discovered my lo
          - [Website for a travel agency](https://zilola08.github.io/travel/)</br>
          - [My CV website](https://zilola08.github.io/CV-Zilola-Makhmonova/)
          
-* All the websites and web-apps have responsive design and cool features like sliders, paginators, popups, burger menus for smaller screens.</br>
+* All the websites and web-apps have responsive design and features like sliders, paginators, popups, burger menus for smaller screens.</br>
 
 - 📫 How to reach me: </br>
          - E-mail: zmakhmonova@gmail.com;</br>
