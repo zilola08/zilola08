@@ -1,6 +1,6 @@
 ### Hi there! 👋 My name is Zilola.
 #### I am an aspiring junior developer.
-I have :mortar_board: formal education in economics, but then I discovered my love for programming :computer: and I have been passionately learning it since :books:.
+I got :mortar_board: formal education in economics. Then I discovered my love for programming :computer: and I have been passionately learning it since :books:.
 
 - :blue_book: I’m currently working on: </br>
          - CS50, Introduction to Computer Science course projects;</br>
