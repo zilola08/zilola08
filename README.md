@@ -9,6 +9,7 @@ I got my :mortar_board: formal education in economics. Then I discovered my love
 - 🌱 I’m currently learning C, Javascript, SCSS, webpack 
 
 - Check out my pet projects:</br>
+         - [Minesweeper](https://zilola08.github.io/minesweeper/dist/main.html) </br>
          - [15-puzzle game](https://zilola08.github.io/fifteen-puzzle-game) </br>
          - [Emerge yourself into nature's beauty and calmness](https://zilola08.github.io/nature-sounds/)</br>
          - [Website for donations to a zoo](https://zilola08.github.io/online-zoo/pages/main/)</br>
