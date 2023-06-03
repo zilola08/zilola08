@@ -24,7 +24,7 @@ I got my :mortar_board: formal education in economics. Then I discovered my love
          - Telegram: [@zmakhmonova](https://t.me/zmakhmonova) </br>
 
 - ⚡ Fun facts about me: </br>
-         - I watched the FRIENDS show 24 times.</br>
+         - My favourite show of all time is the FRIENDS.</br>
          - Big fan of Louis CK's comedy, Jordan Peterson's lectures, Meryl Streep's acting. </br>
          - There are only two double-landlocked countries in the world. And I live in one of them. Boy, I cherish water.</br>
 
