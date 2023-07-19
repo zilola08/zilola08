@@ -6,7 +6,7 @@ I got my :mortar_board: formal education in economics. Then I discovered my love
          - CS50, Introduction to Computer Science course projects;</br>
          - RS School, Frontend/Javascript course projects; </br>
 
-- 🌱 I’m currently learning C, Javascript, SCSS, webpack 
+- 🌱 I’m currently learning Python, Javascript, SCSS, webpack 
 
 - Check out my pet projects:</br>
          - [Minesweeper game](https://zilola08.github.io/minesweeper/dist/main.html) </br>
