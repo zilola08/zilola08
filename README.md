@@ -4,9 +4,9 @@ I got my :mortar_board: formal education in economics and finance. Then I discov
 
 - :blue_book: I’m currently working on: </br>
          - CS50, Introduction to Computer Science course projects;</br>
-         - RS School, Frontend/Javascript course projects; </br>
+         - My own projects; </br>
 
-- 🌱 I’m currently learning Python, Javascript, SCSS, webpack 
+- 🌱 I’m currently learning React, PostgreSQL
 
 - Check out my pet projects:</br>
          - [Minesweeper game](https://zilola08.github.io/minesweeper/dist/main.html) </br>
