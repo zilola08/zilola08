@@ -2,12 +2,6 @@
 #### I am an aspiring junior developer.
 I got my :mortar_board: formal education in economics and finance. Then I discovered my love for programming :computer: and I have been passionately :books:learning it since.
 
-- :blue_book: I’m currently working on: </br>
-         - CS50, Introduction to Computer Science course projects;</br>
-         - My own projects; </br>
-
-- 🌱 I’m currently learning React, PostgreSQL
-
 - Check out my projects:</br>
          - [Minesweeper game](https://zilola08.github.io/minesweeper/dist/main.html) </br>
          - [15-puzzle game](https://zilola08.github.io/fifteen-puzzle-game) </br>
