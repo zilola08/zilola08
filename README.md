@@ -8,10 +8,11 @@ I got my :mortar_board: formal education in economics and finance. Then I discov
 
 - 🌱 I’m currently learning React, PostgreSQL
 
-- Check out my pet projects:</br>
+- Check out my projects:</br>
          - [Minesweeper game](https://zilola08.github.io/minesweeper/dist/main.html) </br>
          - [15-puzzle game](https://zilola08.github.io/fifteen-puzzle-game) </br>
          - [Tic-Tac-Toe game](https://zilola08.github.io/tic-tac-toe/) </br>
+         - [Weather-app](https://zilola08.github.io/weather-app/) </br>
          - [Nature sounds player](https://zilola08.github.io/nature-sounds/)</br>
          - [Website for animal shelter](https://zilola08.github.io/shelter/main.html)</br>
          - [Website for donations to a zoo](https://zilola08.github.io/online-zoo/pages/main/)</br>
