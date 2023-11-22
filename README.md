@@ -18,7 +18,7 @@ I got my :mortar_board: formal education in economics and finance. Then I discov
          - E-mail: zmakhmonova@gmail.com;</br>
          - Telegram: [@zmakhmonova](https://t.me/zmakhmonova) </br>
 
-- ⚡ Fun facts about me: </br>
+- ⚡ Random facts about me: </br>
          - My favourite show of all time is the FRIENDS show.</br>
          - Big fan of Louis CK's comedy, Jordan Peterson's lectures, Meryl Streep's acting. </br>
          - There are only two double-landlocked countries in the world. And I live in one of them. Boy, I cherish water.</br>
