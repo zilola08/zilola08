@@ -16,7 +16,7 @@ I got my :mortar_board: formal education in economics and finance. Then I discov
 
 - 📫 How to reach me: </br>
          - E-mail: zmakhmonova@gmail.com;</br>
-         - Telegram: [@zmakhmonova](https://t.me/zmakhmonova) </br>
+         - Telegram: [@zilola3008](https://t.me/zilola3008) </br>
 
 - ⚡ Random facts about me: </br>
          - My favourite show of all time is the FRIENDS show.</br>
