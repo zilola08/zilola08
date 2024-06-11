@@ -1,5 +1,5 @@
 ### Hi there! 👋 My name is Zilola.
-#### I am an aspiring software engineer.
+#### I am fullstack software engineer.
 - Worked on apartment-booking website in a team of developers:</br>
          - [StayHop](https://booking-vention.vercel.app) </br>
 - Check out my pet projects:</br>
