@@ -16,12 +16,6 @@
 
 - 📫 How to reach me: </br>
          - E-mail: zmakhmonova@gmail.com;</br>
-         - Telegram: [@zilola3008](https://t.me/zilola3008) </br>
-
-- ⚡ Random facts about me: </br>
-         - My favourite show of all time is the FRIENDS show.</br>
-         - Big fan of Louis CK's comedy. And Jordan Peterson's lectures. </br>
-         - There are only two double-landlocked countries in the world. And I live in one of them. Boy, do I cherish water.</br>
 
          
 - <img src='https://user-images.githubusercontent.com/44432264/223957461-e78203f8-0069-41c1-99ce-99abae8eecba.png' alt='JS' height='40px' width='40px'> <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg' alt='ReactJS' height='40px' width='40px'> <img src='https://mui.com/static/logo.png' alt='MUI' height='40px' width='40px'> <img src='https://cdn-icons-png.flaticon.com/256/919/919825.png' alt='NodeJS' height='40px' width='40px'> <img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png' alt='NestJS' height='40px' width='40px'> <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg' alt='Git' height='40px' width='40px'> 
