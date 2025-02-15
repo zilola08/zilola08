@@ -1,6 +1,6 @@
 ### Hi there! 👋 My name is Zilola.
 #### I am fullstack software engineer.
-- Check out my pet projects:</br>
+- Check out my projects:</br>
          - [Minesweeper game](https://zilola08.github.io/minesweeper/dist/main.html) </br>
          - [15-puzzle game](https://zilola08.github.io/fifteen-puzzle-game) </br>
          - [Tic-Tac-Toe game](https://zilola08.github.io/tic-tac-toe/) </br>
