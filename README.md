@@ -10,8 +10,6 @@
          - [Website for donations to a zoo](https://zilola08.github.io/online-zoo/pages/main/)</br>
          - [Website for a travel agency](https://zilola08.github.io/travel/)</br>
          
-* My websites and web-apps have responsive design and features like sliders, paginators, popups, burger menus for smaller screens.</br>
-
 - 📫 How to reach me: </br>
          - Telegram: zilolakh0n </br>
 
